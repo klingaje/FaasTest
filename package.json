@@ -1,0 +1,19 @@
+{
+  "name": "faastest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klingaje/FaasTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klingaje/FaasTest/issues"
+  },
+  "homepage": "https://github.com/klingaje/FaasTest#readme"
+}
